@@ -1,0 +1,168 @@
+saltine crackers
+classic plain saltine
+3.49
+id250
+cheddar crackers
+rich cheddar flavor
+4.25
+id105
+whole wheat crackers
+hearty whole wheat
+3.99
+id104
+multigrain crackers
+nutritious multigrain blend
+4.49
+id115
+garlic herb crackers
+savory garlic herb
+3.75
+id106
+rosemary crackers
+fragrant rosemary infused
+4.50
+id107
+caramelized onion crackers
+sweet caramelized onion
+4.99
+id105
+sesame crackers
+toasted sesame seeds
+3.65
+id109
+poppy seed crackers
+crunchy poppy seed
+3.85
+id101
+flaxseed crackers
+omega-rich flaxseed
+4.10
+id110
+corn flakes
+classic corn flakes
+5.99
+id156
+rice cereal
+crispy rice puffs
+6.49
+id112
+oat cereal
+whole grain oats
+7.99
+id113
+granola cereal
+crunchy honey granola
+8.99
+id114
+muesli cereal
+fruit & nut muesli
+9.49
+id115
+bran cereal
+high-fiber bran
+7.49
+id116
+chocolate cereal
+sweet chocolate puffs
+6.99
+id117
+honey nut cereal
+sweet honey with nuts
+7.99
+id118
+fruit cereal
+tropical fruit mix
+8.49
+id119
+spiced nut cereal
+spiced nuts & grains
+9.99
+id110
+orange juice
+fresh squeezed orange
+3.99
+id121
+apple juice
+crisp apple
+3.49
+id122
+grape juice
+rich concord grape
+4.49
+id123
+cranberry juice
+tart cranberry
+4.99
+id124
+pineapple juice
+tropical pineapple
+3.99
+id125
+mango juice
+sweet mango nectar
+4.49
+id126
+peach juice
+juicy peach
+4.49
+id127
+pear juice
+smooth pear
+4.49
+id128
+cherry juice
+dark cherry
+5.49
+id129
+watermelon juice
+summer watermelon
+4.99
+id120
+lime juice
+zesty lime
+3.99
+id130
+white bread
+soft white loaf
+2.99
+id131
+whole wheat bread
+whole wheat slices
+3.49
+id132
+rye bread
+classic rye
+3.99
+id133
+pumpernickel bread
+dark pumpernickel
+4.49
+id134
+sourdough bread
+tangy sourdough
+3.99
+id135
+italian bread
+traditional italian
+4.49
+id136
+french bread
+crusty french baguette
+4.99
+id137
+baguette
+artisan baguette
+4.49
+id138
+multigrain bread
+seeded multigrain
+4.99
+id139
+honey wheat bread
+sweet honey wheat
+5.49
+id130
+cinnamon raisin bread
+cinnamon swirl with raisins
+5.99
+id669
